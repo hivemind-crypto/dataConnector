@@ -15,6 +15,11 @@ npm init --yes
 
 npm install alchemy-sdk
 
+Navigate to the project directory and use the following command:
+npm install 
+
+This should kick off and install the dependencies from the package.json file
+
 Make adjustments to the string values in the code to change address. Anything with a // is commented out
 and will not run. To use those lines of code, remove the slashes before running the program
 
